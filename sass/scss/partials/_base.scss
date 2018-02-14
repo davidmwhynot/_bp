@@ -1,29 +1,110 @@
 // _base ---------------------------------------------
 
-body {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 1em;
-	background: $gray;
-	line-height: 1em;
-	@include default-text-color($black);
+*
+{
+  color: $base-color;
+  font-size: 28px;
+  font-weight: 300;
+  box-sizing: border-box;
+  font-family: 'Metrophobic', Arial, serif;
+	font-weight: 400;
 }
 
-#wrapper {
-	background: $white;
-	margin: 0 auto;
-	max-width: 800px;
+body
+{
+  background-color: $base-bgc;
+  padding: 50px;
 }
 
-* {
-	box-sizing: border-box;
+header,
+nav,
+section,
+aside,
+footer
+{
+  text-align: center;
+  background-color: $base-section-bgc;
+  border-radius: 5px;
+  padding: 50px;
 }
 
-article p a {
-	color: $blue;
-	&:hover, &:focus {
-		color: $duke-blue;
-	}
-	&:visited {
-		color: $blue-gray;
-	}
+header,
+nav,
+footer
+{
+  width: 100%;
+  padding: 50px;
+}
+
+header
+{
+  margin-bottom: 50px;
+}
+
+h1
+{
+  margin: 0;
+}
+
+nav,
+aside
+{
+  width: 25%;
+}
+
+section
+{
+  float: left;
+  width: calc(50% - 100px);
+  margin: 0 50px 50px 50px;
+}
+
+section header,
+section article,
+section footer
+{
+  width: 100%;
+  background-color: $base-section-section-bgc;
+  border-radius: 5px;
+  margin: 0;
+  padding: 50px;
+}
+
+section article
+{
+  margin: 25px 0;
+}
+
+nav
+{
+  float: left;
+}
+
+aside
+{
+  float: right;
+}
+
+nav ul
+{
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+nav li
+{
+  display: inline-block;
+  margin: 0 0 0 50px;
+  width: 100px;
+}
+
+nav li:first-child
+{
+  margin-left: 0;
+}
+
+footer
+{
+  clear: both;
 }
