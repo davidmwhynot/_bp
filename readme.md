@@ -4,8 +4,8 @@
 scss index.html uses \_bp/html5/basic
 
 ## *TODO*
- - create \_bp/gulp
- - add gulp partials to boilerplates
+ - [ ] create \_bp/gulp
+ - [ ] add gulp partials to boilerplates
 
 ## *VERSIONS*
 ### html
