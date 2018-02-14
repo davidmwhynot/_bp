@@ -8,8 +8,8 @@ scss index.html uses \_bp/html5/basic
  * add gulp partials to boilerplates
 
 ## *VERSIONS*
-* ### html
-	* #### basic
+### html
+#### basic
 v1.0.0
-	* ### sass
+### sass
 v1.0.0
