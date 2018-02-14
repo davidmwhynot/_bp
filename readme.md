@@ -9,7 +9,7 @@ scss index.html uses \_bp/html5/basic
 
 ## *VERSIONS*
 ### html
-#### basic
-v1.0.0
+* basic
+	* v1.0.0
 ### sass
 v1.0.0
