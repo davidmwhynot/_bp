@@ -1,0 +1,4 @@
+// _mixins ---------------------------------------------
+@mixin default-text-color($tc: $black) {
+	color: $tc;
+}
