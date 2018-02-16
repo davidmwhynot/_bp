@@ -1,0 +1,326 @@
+[
+  {
+    title: "json_sandbox_t"
+    group: "_t"
+    paths: [
+      "D:\\json_sandbox"
+    ]
+  }
+  {
+    title: "acme_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\acme_t"
+    ]
+  }
+  {
+    title: "apptheme_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\apptheme_t"
+    ]
+  }
+  {
+    title: "bookmarker_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\bookmarker_t"
+    ]
+  }
+  {
+    title: "bthosting_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\bthosting_t"
+    ]
+  }
+  {
+    title: "chartjs_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\chartjs_t"
+    ]
+  }
+  {
+    title: "curl_test"
+    group: "_test"
+    paths: [
+      "D:\\xampp\\htdocs\\curl_test"
+    ]
+  }
+  {
+    title: "eclipse_thread_test"
+    group: "_test"
+    paths: [
+      "D:\\xampp\\htdocs\\eclipse_thread_test"
+    ]
+  }
+  {
+    title: "emmet_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\emmet_t"
+    ]
+  }
+  {
+    title: "es6_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\es6_t"
+    ]
+  }
+  {
+    title: "expressjs_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\expressjs_t"
+    ]
+  }
+  {
+    title: "fizzbuzz_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\fizzbuzz_t"
+    ]
+  }
+  {
+    title: "flexbox_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\flexbox_t"
+    ]
+  }
+  {
+    title: "fullscreenlanding_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\fullscreenlanding_t"
+    ]
+  }
+  {
+    title: "githubfinder_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\githubfinder_t"
+    ]
+  }
+  {
+    title: "HData"
+    group: "projects"
+    paths: [
+      "D:\\xampp\\htdocs\\HData"
+    ]
+  }
+  {
+    title: "iridiscent_design"
+    group: "projects"
+    paths: [
+      "D:\\xampp\\htdocs\\iridiscent_design"
+    ]
+  }
+  {
+    title: "jqslider_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\jqslider_t"
+    ]
+  }
+  {
+    title: "jquery_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\jquery_t"
+    ]
+  }
+  {
+    title: "js_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\js_t"
+    ]
+  }
+  {
+    title: "json_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\json_t"
+    ]
+  }
+  {
+    title: "loginapp_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\loginapp_t"
+    ]
+  }
+  {
+    title: "movieinfo_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\movieinfo_t"
+    ]
+  }
+  {
+    title: "node_express_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\node_express_t"
+    ]
+  }
+  {
+    title: "nodejs_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\nodejs_t"
+    ]
+  }
+  {
+    title: "oojs_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\oojs_t"
+    ]
+  }
+  {
+    title: "parallaxwebsite_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\parallaxwebsite_t"
+    ]
+  }
+  {
+    title: "php_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\php_t"
+    ]
+  }
+  {
+    title: "predvprey_simulation_v2"
+    group: "projects"
+    paths: [
+      "D:\\xampp\\htdocs\\predvprey_simulation_v2"
+    ]
+  }
+  {
+    title: "predvprey_simulation_v1"
+    group: "projects"
+    paths: [
+      "D:\\xampp\\htdocs\\predvprey_simulation_v1"
+    ]
+  }
+  {
+    title: "pricingtables_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\pricingtables_t"
+    ]
+  }
+  {
+    title: "react_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\react_t"
+    ]
+  }
+  {
+    title: "responsive_form_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\responsive_form_t"
+    ]
+  }
+  {
+    title: "slidenav_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\slidenav_t"
+    ]
+  }
+  {
+    title: "splitscreen_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\splitscreen_t"
+    ]
+  }
+  {
+    title: "starium"
+    group: "projects"
+    paths: [
+      "D:\\xampp\\htdocs\\stariumxcv\\functions\\modules\\federation"
+      "D:\\xampp\\htdocs\\stariumxcv"
+      "D:\\xampp\\htdocs\\stariumxcv.dev"
+    ]
+  }
+  {
+    title: "techscroll_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\techscroll_t"
+    ]
+  }
+  {
+    title: "xdcarries"
+    group: "projects"
+    paths: [
+      "D:\\xampp\\htdocs\\xdcarries"
+    ]
+  }
+  {
+    title: "yknot"
+    group: "projects"
+    paths: [
+      "D:\\xampp\\htdocs\\yknot"
+    ]
+  }
+  {
+    title: "title"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\title"
+    ]
+  }
+  {
+    title: "ahk"
+    group: "projects"
+    paths: [
+      "D:\\xampp\\htdocs\\ahk"
+    ]
+  }
+  {
+    title: "cs1120_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\cs1120book_t"
+    ]
+  }
+  {
+    title: "npmapp_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\npmapp_t"
+    ]
+  }
+  {
+    title: "practice"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\practice"
+    ]
+  }
+  {
+    title: "nodeauthapi_t"
+    group: "_t"
+    paths: [
+      "D:\\xampp\\htdocs\\nodeauthapi_t"
+    ]
+  }
+  {
+    title: "localServer_config"
+    group: "_config"
+    paths: [
+      "D:\\xampp\\apache\\conf"
+    ]
+  }
+]

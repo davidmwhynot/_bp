@@ -1,0 +1,73 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "ad4842e5-3bee-443b-882d-52d944dd38b9"
+  "autocomplete-plus":
+    confirmCompletion: "enter"
+  "command-palette":
+    preserveLastSearch: true
+  core:
+    allowPendingPaneItems: false
+    autoHideMenuBar: true
+    closeEmptyWindows: false
+    disabledPackages: [
+      "status-bar"
+      "linter"
+      "intentions"
+      "linter-jscs"
+      "linter-jshint"
+      "linter-ui-default"
+      "minimap-pigments"
+      "remember-file-positions"
+    ]
+    packagesWithKeymapsDisabled: [
+      "command-palette"
+    ]
+    projectHome: "g:\\xampp\\htdocs"
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 11
+    invisibles: {}
+    nonWordCharacters: "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?…"
+    preferredLineLength: 100
+    scrollPastEnd: true
+    showIndentGuide: true
+    softTabs: false
+    softWrap: true
+    tabType: "hard"
+  emmet: {}
+  "exception-reporting":
+    userId: "f6d27b5d-dfb2-441f-ae85-b2aee1db53b2"
+  "file-icons": {}
+  "linter-jshint":
+    lintInlineJavaScript: true
+  minimap:
+    absoluteMode: true
+    displayMinimapOnLeft: true
+    moveCursorOnMinimapClick: true
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+    scrollAnimation: true
+  pigments:
+    delayBeforeScan: 5
+    extendAutocompleteToVariables: true
+  "project-manager":
+    alwaysOpenInSameWindow: true
+    includeGitRepositories: true
+    prettifyTitle: false
+    sortBy: "last modified"
+  "sync-settings":
+    _lastBackupHash: "829420cf9f9109446d9874df470bd4b03c15d5e1"
+    gistId: "27c85eb192ef8dad3f21adc7f3f4fe5f"
+    personalAccessToken: "67b541e1f9d8e72f2ffbea7eca4048cdc41cf71c"
+  todo:
+    c_ignorePaths: [
+      "**/public_html/**"
+    ]
+  welcome:
+    showOnStartup: false
