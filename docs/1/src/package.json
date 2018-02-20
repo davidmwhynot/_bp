@@ -1,0 +1,28 @@
+{
+  "name": "_bp",
+  "version": "1.0.0",
+  "description": "Template for creating documents in the docs project.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-ext-replace": "^0.3.0",
+    "gulp-markdown": "^2.0.1",
+    "marked": "^0.3.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmwhynot/docs.git"
+  },
+  "author": "David Whynot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidmwhynot/docs/issues"
+  },
+  "homepage": "https://github.com/davidmwhynot/docs#readme"
+}
