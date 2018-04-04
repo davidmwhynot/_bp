@@ -1,0 +1,8 @@
+// _mixins ---------------------------------------------
+
+// NOTE: size of content = width - (border + padding)
+
+@mixin leftDashBorder($c) {
+	margin-left: 5px;
+	padding-left: 5px;
+}

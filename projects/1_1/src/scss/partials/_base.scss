@@ -1,0 +1,33 @@
+// _base ---------------------------------------------
+
+* {
+  color: $base-color;
+  font-size: 1.1rem;
+  font-weight: 300;
+  box-sizing: border-box;
+  font-family: 'Metrophobic', Arial, serif;
+	font-weight: 400;
+}
+
+body {
+  background-color: $base-bgc;
+}
+
+header, nav {
+	text-align: center;
+}
+
+section, footer {
+  text-align: center;
+  background-color: $base-section-bgc;
+  border-radius: 5px;
+}
+
+section header, section article, section footer {
+  background-color: $base-section-section-bgc;
+  border-radius: 5px;
+}
+
+header ul {
+  list-style-type: none;
+}

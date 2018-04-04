@@ -1,0 +1,111 @@
+// _base ---------------------------------------------
+
+// NOTE: size of content = width - (border + padding)
+
+// default colors, fonts, borders, etc. (catchall, this is what values will be if we don't specify in style.scss) of ELEMENTS ONLY
+
+// set font size of all elements to 16px and style the elements we want to have different rems on and individual basis
+
+// global defaults/resets
+
+html {
+	font-size: $fz; // set rem base
+}
+
+* {
+	font-size: 1rem;
+	font-weight: $fw;
+	font-family: $ff_primary;
+	text-decoration: none;
+	list-style-type: none;
+	padding: 0;
+	&:focus {
+		outline: none;
+	}
+}
+
+section {
+
+}
+
+// headings
+
+%heading {
+	font-family: $ff_header;
+	color: $color-primary-0;
+	border-left: 1px dashed $color-primary-0;
+	padding-left: 5px;
+}
+
+h1 {
+	@extend %heading;
+	font-size: 2.5rem;
+}
+
+h2 {
+	@extend %heading;
+	font-size: 2.25rem;
+}
+
+h3 {
+	@extend %heading;
+	font-size: 2rem;
+}
+
+h4 {
+	@extend %heading;
+	font-size: 1.75rem;
+}
+
+h5 {
+	@extend %heading;
+	font-size: 1.5rem;
+}
+
+h6 {
+	@extend %heading;
+	font-size: 1.25rem;
+}
+
+
+// text
+
+p {
+	font-family: $ff_secondary;
+	font-size: .9rem;
+}
+
+a {
+	color: lighten($color-primary-0, 10%);
+	&:hover {
+		color: darken($color-primary-0, 5%);
+	}
+}
+
+// components
+
+button {
+	background-color: $color-primary-0;
+	border: none;
+	border-radius: $brad *2;
+	padding: 5px;
+	color: $white;
+	font-family: "lato_light";
+	&:hover {
+		background-color: darken($color-primary-0, 5%);
+		cursor: pointer;
+	}
+	&:active {
+		background-color: darken($color-primary-0, 15%);
+		cursor: default;
+	}
+}
+
+input {
+	border-radius: $brad;
+	background-color: $color-light;
+	&:focus {
+		outline: none;
+		background-color: darken($color-light, 5%);
+	}
+}

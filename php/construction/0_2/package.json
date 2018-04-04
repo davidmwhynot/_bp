@@ -1,0 +1,30 @@
+{
+  "name": "yknot",
+  "version": "0.2.0",
+  "description": "Y-Knot website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmwhynot/yknot.git"
+  },
+  "author": "David Whynot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidmwhynot/yknot/issues"
+  },
+  "homepage": "https://github.com/davidmwhynot/yknot#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {}
+}

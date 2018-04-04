@@ -1,0 +1,95 @@
+// _variables ---------------------------------------------
+
+// NOTE: size of content = width - (border + padding)
+
+// property values that need to be set frequently
+
+$red: #FF0000;
+$white: #FFFFFF;
+$grey: #808080;
+$pink: #FFCBDB;
+$brown: #964B00;
+$orange: #FF7F00;
+$yellow: #FFFF00;
+$green: #00FF00;
+$cyan: #00FFFF;
+$blue: #0000FF;
+$violet: #7F00FF;
+$black: #000000;
+$transparent: rgba(0,0,0,0);
+
+$nav-bgc: #323232;
+
+$section-bg1: #FFFFFF;
+$section-bg3: #444;
+$section-bg4: #999999;
+
+
+$color-primary: #489C8F;
+$color-secondary: #375A87;
+$color-tertiary: #454145;
+$color-light: #9DB8A4;
+$color-grey: #B2BEB5;
+
+// paletton
+
+$color-primary-0: #70ABA1;	// Main Primary color */
+$color-primary-1: #BFDCD7;
+$color-primary-2: #98C5BD;
+$color-primary-3: #51968A;
+$color-primary-4: #368376;
+
+$color-secondary-0: #7A8FB1;	// Main Secondary color (1) */
+$color-secondary-1: #C4CEDF;
+$color-secondary-2: #9FB0CA;
+$color-secondary-3: #5B749C;
+$color-secondary-4: #405C89;
+
+$color-grey-primary-0: #373B3B;	// Main Primary color */
+$color-grey-primary-1: #42514E;
+$color-grey-primary-2: #2E3332;
+$color-grey-primary-3: #252A29;
+$color-grey-primary-4: #1A1E1E;
+
+$color-grey-secondary-0: #3A3C3E;	// Main Secondary color (1) */
+$color-grey-secondary-1: #474C54;
+$color-grey-secondary-2: #303235;
+$color-grey-secondary-3: #27292C;
+$color-grey-secondary-4: #1C1D20;
+
+
+// font vars
+
+$fz: 24px;
+$fw: 400;
+
+$ff_primary: "lato_regular";
+$ff_header: "oswald_extralight";
+$ff_header_secondary: "oswald_extralight";
+$ff_secondary: "lato_light";
+$ff_tertiary: "lato_black";
+
+
+
+// misc
+
+$brad: 5px;
+
+
+$ff_oswald_1: "oswald_bold";
+$ff_oswald_2: "oswald_extralight";
+$ff_oswald_3: "oswald_light";
+$ff_oswald_4: "oswald_medium";
+$ff_oswald_5: "oswald_regular";
+$ff_oswald_6: "oswald_semibold";
+
+$ff_lato_0: "lato_black";
+$ff_lato_1: "lato_blackitalic";
+$ff_lato_2: "lato_bold";
+$ff_lato_3: "lato_bolditalic";
+$ff_lato_4: "lato_hairline";
+$ff_lato_5: "lato_hairlineitalic";
+$ff_lato_6: "lato_italic";
+$ff_lato_7: "lato_light";
+$ff_lato_8: "lato_lightitalic";
+$ff_lato_9: "lato_regular";

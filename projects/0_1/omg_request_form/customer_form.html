@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+		<link rel="stylesheet" href="https://bootswatch.com/3/darkly/bootstrap.css">
+		<link rel="stylesheet" href="../css/style.css">
+
+		<title>Y-Knot | OMG Webstore Request</title>
+	</head>
+
+	<body id="customer_form" class="page">
+		<div class="head">
+			<h2 class="text-info container head-title">
+				<span class="text-success">Y-Knot Embroidery</span>
+				<span class="text-muted">|</span>
+				OMG Request Form
+				<span class="text-muted">|</span>
+				<a id="head_customer_form_button" href="customer_form.html" class="btn btn-link head-btn">Customer Form</a>
+				<a id="head_internal_form_button" href="internal_login.html" class="btn btn-link head-btn">Internal Form</a>
+			</h2>
+		</div>
+		<div class="main">
+			<div id="customer_form_con" class="panel panel-primary small-panel">
+				<div class="panel-heading">
+		      <h3 class="panel-title">Contact Us</h3> <!-- TODO -->
+				</div>
+				<div class="panel-body">
+					<p>Fill out the fields in the form below and we will get back with you via email as soon as possible. Thank you for using Y-Knot Embroidery.</p> <!-- TODO -->
+					<form id="customer_form_form" class="form-horizontal">
+					  <fieldset>
+					    <div class="form-group">
+					      <label for="customer_form_name" class="col-lg-2 control-label">Name</label>
+					      <div class="col-lg-10">
+					        <input id="customer_form_name" type="text" class="form-control" placeholder="Name">
+					      </div>
+					    </div>
+					    <div class="form-group">
+					      <label for="customer_form_email" class="col-lg-2 control-label">Email</label>
+					      <div class="col-lg-10">
+					        <input id="customer_form_email" type="text" class="form-control" placeholder="Email">
+					      </div>
+					    </div>
+					    <div class="form-group">
+					      <label for="textArea" class="col-lg-2 control-label">Message</label>
+					      <div class="col-lg-10">
+					        <textarea id="customer_form_message" class="form-control" rows="3"></textarea>
+					      </div>
+					    </div>
+					    <div class="form-group">
+					      <div class="col-lg-10 col-lg-offset-2">
+					        <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+					      </div>
+					    </div>
+					  </fieldset>
+					</form>
+				</div>
+			</div>
+		</div>
+
+		<div class="footer">
+			<h4>&copy; 2018 Y-Knot Embroidery</h4>
+			<p class="davidwhynot-brand text-muted">Site created by <a href="https://davidwhynot.me">David Whynot</a></p>
+		</div>
+
+		<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+		<script src="https://bootswatch.com/3/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+		<script src="main.js"></script>
+	</body>
+</html>
