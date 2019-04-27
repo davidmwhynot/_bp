@@ -34,5 +34,5 @@ gulp.task('default', ['watch_ops'], function() {
 			baseDir: './dist/'
 		}
 	});
-	gulp.watch('src/**/*',['watch_ops']);
+	gulp.watch('src/**/*', ['watch_ops']);
 });
