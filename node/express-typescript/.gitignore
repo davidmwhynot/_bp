@@ -1,0 +1,7 @@
+node_modules
+.vscode
+
+dist
+
+src/config.ts
+public/media/vids
